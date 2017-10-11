@@ -1,0 +1,17 @@
+[30-Jun-2017 09:55:53 Africa/Lagos] PHP Parse error:  syntax error, unexpected '[' in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/vendor/nikic/fast-route/src/functions.php on line 12
+[30-Jun-2017 09:56:05 Africa/Lagos] PHP Parse error:  syntax error, unexpected '[' in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/vendor/nikic/fast-route/src/functions.php on line 12
+[30-Jun-2017 09:57:13 Africa/Lagos] PHP Parse error:  syntax error, unexpected '[' in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/vendor/nikic/fast-route/src/functions.php on line 12
+[30-Jun-2017 09:58:23 Africa/Lagos] PHP Parse error:  syntax error, unexpected '[' in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/vendor/nikic/fast-route/src/functions.php on line 12
+[30-Jun-2017 09:58:33 Africa/Lagos] PHP Parse error:  syntax error, unexpected '[' in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/vendor/nikic/fast-route/src/functions.php on line 12
+[30-Jun-2017 09:59:10 Africa/Lagos] PHP Parse error:  syntax error, unexpected '[' in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/vendor/nikic/fast-route/src/functions.php on line 12
+[30-Jun-2017 09:59:33 Africa/Lagos] PHP Parse error:  syntax error, unexpected '[' in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/vendor/nikic/fast-route/src/functions.php on line 12
+[10-Jul-2017 08:52:58 America/New_York] PHP Fatal error:  Call to undefined function getParam() in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/src/routes/apis.php on line 345
+[10-Jul-2017 08:53:05 America/New_York] PHP Fatal error:  Call to undefined function getParam() in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/src/routes/apis.php on line 345
+[10-Jul-2017 08:53:30 America/New_York] PHP Fatal error:  Call to undefined function getParam() in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/src/routes/apis.php on line 345
+[10-Jul-2017 08:53:44 America/New_York] PHP Fatal error:  Call to undefined function getParam() in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/src/routes/apis.php on line 345
+[10-Jul-2017 08:54:09 America/New_York] PHP Fatal error:  Call to undefined function getParam() in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/src/routes/apis.php on line 345
+[10-Jul-2017 09:04:56 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/src/routes/apis.php on line 359
+[10-Jul-2017 09:07:09 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/src/routes/apis.php on line 359
+[10-Jul-2017 09:33:39 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/src/routes/apis.php on line 360
+[10-Jul-2017 09:34:32 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/src/routes/apis.php on line 354
+[11-Jul-2017 05:04:18 America/New_York] PHP Fatal error:  Call to undefined method db::prepare() in /home/yandgafn/public_html/studentaccommod8.com/n/new/X/src/routes/apis.php on line 217

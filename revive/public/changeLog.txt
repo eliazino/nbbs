@@ -1,0 +1,8 @@
+adding to the admin
+
+--ALTER TABLE admin
+--  `canteenID`	TEXT DEFAULT NULL;
+
+--ALTER TABLE cards
+`limitReached`	INTEGER DEFAULT 0
+`synced`	INTEGER DEFAULT 0
